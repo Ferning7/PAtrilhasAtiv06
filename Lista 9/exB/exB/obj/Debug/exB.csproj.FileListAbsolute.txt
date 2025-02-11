@@ -1,0 +1,12 @@
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exB\exB\bin\Debug\exB.exe.config
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exB\exB\bin\Debug\exB.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exB\exB\bin\Debug\exB.pdb
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exB\exB\obj\Debug\exB.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exB\exB\obj\Debug\exB.exe
+C:\Users\Aluno_Tarde\Documents\SharpDevelop Projects\exB\exB\obj\Debug\exB.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Listas 8 e 9\Lista 9\exB\exB\bin\Debug\exB.exe.config
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Listas 8 e 9\Lista 9\exB\exB\bin\Debug\exB.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Listas 8 e 9\Lista 9\exB\exB\bin\Debug\exB.pdb
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Listas 8 e 9\Lista 9\exB\exB\obj\Debug\exB.csprojResolveAssemblyReference.cache
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Listas 8 e 9\Lista 9\exB\exB\obj\Debug\exB.exe
+C:\Users\Aluno_Manha\Documents\SharpDevelop Projects\Listas 8 e 9\Lista 9\exB\exB\obj\Debug\exB.pdb
