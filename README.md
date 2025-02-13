@@ -26,7 +26,7 @@ g) Crie um algoritmo que armazene números em dois vetores inteiros de cinco ele
 h) Crie um vetor de inteiros e ordene os valores do vetor em ordem decrescente.\
 i) Crie um algoritmo que entre com 10 nomes e imprima uma listagem contendo todos os nomes.\
 j) Um sistema de controle de estoque armazena nome, quantidade em estoque e preço unitário de 40 mercadorias. Fazer um menu que exiba as seguintes opções:\
-MENU.\
-1. Cadastra mercadorias.\
-2. Exibe valor total em mercadorias da empresa.\
+MENU.
+1. Cadastra mercadorias.
+2. Exibe valor total em mercadorias da empresa.
 3. Sair
